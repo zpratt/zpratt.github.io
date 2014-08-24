@@ -1,4 +1,4 @@
-Building [React](http://facebook.github.io/react/) components for use with [google maps](https://developers.google.com/maps/documentation/javascript/reference) can present an interesting problem for those who aren't aware of the basics/quirks of developing with google maps. I aim to shed some light on the fundamentals of how to get the two to play nicely together, and to promote developing the components in a way that will promote testability as well.
+Building [React](http://facebook.github.io/react/) components for use with [google maps](https://developers.google.com/maps/documentation/javascript/reference) can present an interesting problem for those who aren't aware of the basics/quirks of developing with google maps. I aim to shed some light on the fundamentals of how to get the two to play nicely together, and to promote developing the components in a way that will promote testability as well. As always, feel free to [jump right into the code](https://github.com/zpratt/react-google-maps-example) if don't need the TLDR; description of how it all works.
 
 ## Why?
 
@@ -25,6 +25,14 @@ My preferred method for separating concerns when building custom OverlayViews is
 * Implement a facade, (in the spirit of the [Command Pattern](http://en.wikipedia.org/wiki/Command_pattern)) which abstracts away the complexity of the coordination that needs to occur between the OverlayView and the React component
 
 ## Digging in
+
+### Installing the required tools
+
+* `npm install react --save`
+* `npm install lodash --save`
+* `npm install browserify --save-dev`
+* `npm install grunt-browserify --save-dev`
+* `npm install reactify --save-dev`
 
 ### Implementing the OverlayView
 
