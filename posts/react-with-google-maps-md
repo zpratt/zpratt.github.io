@@ -1,0 +1,11 @@
+Building [React](http://facebook.github.io/react/) components for use with [google maps](https://developers.google.com/maps/documentation/javascript/reference) can present an interesting problem for those who aren't aware of the basics/quirks of developing with google maps. I aim to shed some light on the fundamentals of how to get the two to play nicely together, and to promote developing the components in a way that will promote testability as well.
+
+## Why?
+
+Out of the box google maps components are fine for simple use cases, such as, displaying a marker for a given Lat/Lng point and InfoWindows for descriptive content about a given point. However, things get interesting when the time comes where you need to be able to have full control over the style of a component, or to easily update content based on changes from the server. There are thirdparty libraries out there that will wrap the google map component primitives, but those have their own problems and often contain a bunch of bloat trying to handle all possible user interactions and browser quirks.
+
+## Prerequisites
+
+1. A basic understanding of React
+2. A basic understanding of google maps
+3. A google maps API key
