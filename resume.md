@@ -53,3 +53,5 @@ Technical Skills
 * Extensive experience with Linux system administration
 * Experience with AWS and Openstack cloud platforms
 * Extensive automation experience with Jenkins and general purpose scripting languages (python, javascript, bash)
+* Data modeling (operational and analytics)
+* Legacy system integration
