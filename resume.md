@@ -8,6 +8,7 @@ I am a highly self-motivated person that enjoys building software and systems th
 * Email: [pratt.zach@gmail.com](mailto:pratt.zach@gmail.com)
 * Github: [@zpratt](https://github.com/zpratt)
 * Website: [http://attackofzach.com/](http://attackofzach.com/)
+* linkedin: [https://www.linkedin.com/profile/view?id=17201005](https://www.linkedin.com/profile/view?id=17201005)
 
 ----------------------------
 
