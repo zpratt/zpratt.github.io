@@ -47,19 +47,19 @@ I conceived of, architected, and managed the implementation of a business analyt
 Technical Skills
 --------------------
 
-* Deep knowledge and experience in production delivery of large java and javascript applications
-* Extensive experience with test driven development for large java and javascript applications
-* Javascript testing frameworks: mocha and cucumber-js
+* Deep knowledge and experience in production delivery of large n-tier java and javascript applications
+* Strong knowledge of robust application and information security practices
+* Extensive experience mentoring both junior and senior engineers
+* Extensive experience with technical leadership over large, globally distributed teams
+* Extensive experience with test driven development for large applications
 * Extensive experience with client-side javascript frameworks/libraries: Backbone, Angular, React/Redux
-* Javascript server-side frameworks: hapi and express (with node.js)
-* Java server-side frameworks: Spring Boot, classic Spring MVC, JPA, Hibernate
-* Deep knowledge of HTML5, CSS, as well as SASS and Bootstrap
+* Javascript server-side frameworks: hapi and express
+* Java server-side frameworks and libraries: Spring Boot, classic Spring MVC, JPA, Hibernate
 * Deep knowledge and experience with creating RESTful APIs
 * Extensive experience with Linux system administration
 * Extensive experience with both greenfield and brownfield CI/CD pipeline creation
 * Experience with AWS, Google, and Openstack cloud platforms
 * Extensive automation experience and general purpose scripting languages (python, javascript, ruby, and bash)
-* Production experience with infrastructure as code using Terraform
+* Production experience using Terraform with both Google Cloud and VMware
 * Data modeling (operational and analytics)
 * Legacy system integration
-* Strong knowledge of robust application and information security practices
