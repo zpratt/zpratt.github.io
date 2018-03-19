@@ -24,7 +24,11 @@ Education
 Experience
 ----------
 
-**Technology Solutions Architect - Deere & Company (June 2015 - Present):**
+**Software Architect - Hy-Vee (June 2017 - Present):**
+
+Description is WIP
+
+**Technology Solutions Architect - Deere & Company (June 2015 - June 2017):**
 
 Lead the implementation of the front-end for John Deere Sales Center, which dealers use to create quotes for customers, manage inventory, and place orders for new equipment. This involves mentoring and coaching over 35 developers across 5 scrum teams from the U.S., Canada, and India in all facets of software engineering and XP practices. We have successfully deployed this application to the entire Australia/New Zealand region in production. Under my leadership, we transformed a struggling implementation with chronic issues to a reliable delivery pipeline where we successfully deploy changes to production every day.
 
@@ -43,16 +47,19 @@ I conceived of, architected, and managed the implementation of a business analyt
 Technical Skills
 --------------------
 
-* Deep knowledge and experience in production delivery of large javascript applications
-* Extensive experience with test driven development for large javascript applications
+* Deep knowledge and experience in production delivery of large java and javascript applications
+* Extensive experience with test driven development for large java and javascript applications
 * Javascript testing frameworks: mocha and cucumber-js
 * Extensive experience with client-side javascript frameworks/libraries: Backbone, Angular, React/Redux
 * Javascript server-side frameworks: hapi and express (with node.js)
-* Java server-side frameworks: Spring MVC, JPA, Hibernate
+* Java server-side frameworks: Spring Boot, classic Spring MVC, JPA, Hibernate
 * Deep knowledge of HTML5, CSS, as well as SASS and Bootstrap
 * Deep knowledge and experience with creating RESTful APIs
 * Extensive experience with Linux system administration
-* Experience with AWS and Openstack cloud platforms
-* Extensive automation experience with Jenkins and general purpose scripting languages (python, javascript, bash)
+* Extensive experience with both greenfield and brownfield CI/CD pipeline creation
+* Experience with AWS, Google, and Openstack cloud platforms
+* Extensive automation experience and general purpose scripting languages (python, javascript, ruby, and bash)
+* Production experience with infrastructure as code using Terraform
 * Data modeling (operational and analytics)
 * Legacy system integration
+* Strong knowledge of robust application and information security practices
