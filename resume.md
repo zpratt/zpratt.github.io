@@ -24,10 +24,19 @@ Experience
 ----------
 **Enterprise Architect - Hy-Vee (June 2019 - Present):**
 
+* Furthering the adoption of DevOps practices across the company
+  * Productized our DevOps offerings and continue to grow the team to meet organizational needs
+  * Further increased system observability through log aggregation, APM, and security automation
+  * Increased continuous delivery adoption
+* Leading our Master Data Management team to improve data quality and integration
+* Leading our Architecture team to increase the pace of system modernization, organizational consistency, and quality
+* Begin establishing organization-wide approaches to rationalizing solution choice and product purchasing
+
 **Software Architect - Hy-Vee (June 2017 - June 2019):**
 
 Acted as the driving force behind organization-wide transformation from unpredictable project and individual-focused delivery to a journey towards predictable product and quality-focused teams. I defined critical roles such as engineers and product owners and hired many individuals into key positions. Beyond organization transformation, I focused on the adoption of XP, DevOps, Systems, and Security Modernization. Key accomplishments included: 
 * A reduction in time to deploy system changes from hours to seconds
+* Broad adoption of infrastructure as code (primarily Terraform)
 * Resilient and integrated systems that avoid single points of failure
 * Operational awareness through log aggregation and performance monitoring
 * Centralized identity and OIDC adoption for applications and APIs
