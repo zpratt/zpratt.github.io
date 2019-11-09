@@ -48,11 +48,11 @@ Led the implementation of the front-end for John Deere Sales Center, which deale
 
 **Senior UI Developer - Deere & Company (Nov 2013 - May 2015):**
 
-As a senior developer on the advanced UI team, I helped lead the implementation and adoption of advanced frameworks and shared UI components for multiple customer facing applications. This required me to work with many different teams and to collaboratively develop a strategy of mentoring and sharing of knowledge about our components and underlying frameworks. Additionally, I worked closely with our UX experts and designers to define the user experience for MyJohnDeere.
+As a senior engineer on the advanced UI team, I led the implementation and adoption of advanced frameworks (Backbone and React) and broad adoption of shared UI components for multiple customer facing applications. This required me to work with many different teams and to collaboratively develop a strategy of mentoring and sharing of knowledge about our components and underlying frameworks. Additionally, I worked closely with our UX experts and designers to define the user experience for MyJohnDeere.
 
 **Developer - Deere & Company (April 2012 - Nov 2013):**
 
-As a member of the master data team within the Information Knowledge Center, I was the lead developer for the location master data repository as well as the tech lead for the Application Data Maintenance System (ADMS). In this position, I focused on building application systems to maintain data, data integration, and adoption of master data by many different business units within the company.
+As a member of the master data team within the Information Knowledge Center, I was the lead engineer for the location master data domain and the Global Dealer Locator project team. In this position, I focused on building application systems to maintain data quality, data integration, and adoption of master data by many different business units within the company. Successes included the adoption of location data by our Global Security business unit and successful production launch of the Global Dealer Locator rewrite.
 
 **Systems Engineer - Western Illinois University (May 2006 - March 2012):**
 
