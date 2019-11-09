@@ -44,7 +44,7 @@ Acted as the driving force behind organization-wide transformation from unpredic
 
 **Technology Solutions Architect - Deere & Company (June 2015 - June 2017):**
 
-Lead the implementation of the front-end for John Deere Sales Center, which dealers use to create quotes for customers, manage inventory, and place orders for new equipment. This involves mentoring and coaching over 35 developers across 5 scrum teams from the U.S., Canada, and India in all facets of software engineering and XP practices. We have successfully deployed this application to the entire Australia/New Zealand region in production. Under my leadership, we transformed a struggling implementation with chronic issues to a reliable delivery pipeline where we successfully deploy changes to production every day.
+Led the implementation of the front-end for John Deere Sales Center, which dealers use to create quotes for customers, manage inventory, and place orders for new equipment. This involves mentoring and coaching over 35 developers across 5 scrum teams from the U.S., Canada, and India in all facets of software engineering and XP practices. We successfully deployed this application to the entire Australia/New Zealand region in production. Under my leadership, we transformed a struggling implementation with chronic issues to a reliable delivery pipeline where we successfully deployed business-critical changes to production multiple times every day.
 
 **Senior UI Developer - Deere & Company (Nov 2013 - May 2015):**
 
