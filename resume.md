@@ -7,8 +7,7 @@ I am a highly self-motivated person that enjoys building software and systems th
 
 * Email: [pratt.zach@gmail.com](mailto:pratt.zach@gmail.com)
 * Github: [@zpratt](https://github.com/zpratt)
-* Website: [http://attackofzach.com/](http://attackofzach.com/)
-* linkedin: [https://www.linkedin.com/profile/view?id=17201005](https://www.linkedin.com/profile/view?id=17201005)
+* LinkedIn: [www.linkedin.com/in/zachpratt](www.linkedin.com/in/zachpratt)
 
 ----------------------------
 
@@ -23,10 +22,16 @@ Education
 
 Experience
 ----------
+**Enterprise Architect - Hy-Vee (June 2019 - Present):**
 
-**Software Architect - Hy-Vee (June 2017 - Present):**
+**Software Architect - Hy-Vee (June 2017 - June 2019):**
 
-Description is WIP
+Acted as the driving force behind organization-wide transformation from unpredictable project and individual-focused delivery to a journey towards predictable product and quality-focused teams. I defined critical roles such as engineers and product owners and hired many individuals into key positions. Beyond organization transformation, I focused on the adoption of XP, DevOps, Systems, and Security Modernization. Key accomplishments included: 
+* A reduction in time to deploy system changes from hours to seconds
+* Resilient and integrated systems that avoid single points of failure
+* Operational awareness through log aggregation and performance monitoring
+* Centralized identity and OIDC adoption for applications and APIs
+* The implementation of our cloud native PCI-compliant hosting environment
 
 **Technology Solutions Architect - Deere & Company (June 2015 - June 2017):**
 
@@ -43,23 +48,3 @@ As a member of the master data team within the Information Knowledge Center, I w
 **Systems Engineer - Western Illinois University (May 2006 - March 2012):**
 
 I conceived of, architected, and managed the implementation of a business analytics system for the entire university. I was also a developer and system administrator tasked with building a web-based teacher accreditation system for COEHS. Additionally, I was a senior member of the web accessibility committee and helped develop and maintain several web sites, both public facing and internal facing.
-
-Technical Skills
---------------------
-
-* Deep knowledge and experience in production delivery of large n-tier java and javascript applications
-* Strong knowledge of robust application and information security practices
-* Extensive experience mentoring both junior and senior engineers
-* Extensive experience with technical leadership over large, globally distributed teams
-* Extensive experience with test driven development for large applications
-* Extensive experience with client-side javascript frameworks/libraries: Backbone, Angular, React/Redux
-* Javascript server-side frameworks: hapi and express
-* Java server-side frameworks and libraries: Spring Boot, classic Spring MVC, JPA, Hibernate
-* Deep knowledge and experience with creating RESTful APIs
-* Extensive experience with Linux system administration
-* Extensive experience with both greenfield and brownfield CI/CD pipeline creation
-* Experience with AWS, Google, and Openstack cloud platforms
-* Extensive automation experience and general purpose scripting languages (python, javascript, ruby, and bash)
-* Production experience using Terraform with both Google Cloud and VMware
-* Data modeling (operational and analytics)
-* Legacy system integration
