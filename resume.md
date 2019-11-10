@@ -34,7 +34,7 @@ Experience
 
 **Software Architect - Hy-Vee (June 2017 - June 2019):**
 
-Acted as the driving force behind organization-wide transformation from unpredictable project and individual-focused delivery to a journey towards predictable product and quality-focused teams. I defined critical roles such as engineers and product owners and hired many individuals into key positions. Beyond organization transformation, I focused on the adoption of XP, DevOps, Systems, and Security Modernization. Key accomplishments included: 
+Acted as the driving force behind organization-wide transformation from unpredictable project and individual-focused delivery to a journey towards predictable product and quality-focused teams. I defined critical roles such as engineers and product owners and hired many individuals into key positions. Beyond organization transformation, I focused on the adoption of XP, DevOps, Systems Thinking, and Security Modernization. Key accomplishments included: 
 * A reduction in time to deploy system changes from hours to seconds
 * Broad adoption of infrastructure as code (primarily Terraform)
 * Resilient and integrated systems that avoid single points of failure
