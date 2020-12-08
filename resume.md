@@ -1,7 +1,7 @@
 Zach Pratt
 ============
 
-I am a highly self-motivated person that enjoys building software and systems that help solve real problems for customers. I prefer a collaborative environment where mentoring and pairing is encouraged. I love research, problem solving, and teaching others. I am at my best leading a group of people who share my passion for software craftsmanship and predictable delivery.
+I transform legacy systems and large-scale initiatives into assets, while simultaneously elevating the skills of others around me. I have five years of experience as a Solutions and Enterprise Architect and nine years of experience as an Engineer delivering business-critical solutions to production.
 
 ----------------------------
 
@@ -22,24 +22,24 @@ Education
 
 Experience
 ----------
-**Enterprise Architect - Hy-Vee (June 2019 - Present):**
 
-* Furthering the adoption of DevOps practices across the company
-  * Productized our DevOps offerings and continue to grow the team to meet organizational needs
-  * Further increased system observability through log aggregation, APM, and security automation
-  * Increased continuous delivery adoption
-* Leading our Master Data Management team to improve data quality and integration
-* Leading our Architecture team to increase the pace of system modernization, organizational consistency, and quality
-* Begin establishing organization-wide approaches to rationalizing solution choice and product purchasing
+**Technical Coach - TEK Systems (March 2020 - Present)**
+
+* WIP
+
+**Enterprise Architect - Hy-Vee (June 2019 - March 2020):**
+
+* Oversaw all major technical initiatives for a $10 Billion Company
+* Led a digital transformation of the company, increasing flow of delivery, scalability, and security
+* Led the Master Data Management team to improve data quality and integration
+* Led the Architecture team, focusing on system modernization, organizational consistency, and quality
 
 **Software Architect - Hy-Vee (June 2017 - June 2019):**
 
-Acted as the driving force behind organization-wide transformation from unpredictable project and individual-focused delivery to a journey towards predictable product and quality-focused teams. I defined critical roles such as engineers and product owners and hired many individuals into key positions. Beyond organization transformation, I focused on the adoption of XP, DevOps, Systems Thinking, and Security Modernization. Key accomplishments included: 
-* A reduction in time to deploy system changes from hours to seconds
-* Broad adoption of infrastructure as code (primarily Terraform)
-* Resilient and integrated systems that avoid single points of failure
-* Operational awareness through log aggregation and performance monitoring
-* Centralized identity and OIDC adoption for applications and APIs
+* Led a $10 Billion Dollar company's cloud adoption strategy and implementation
+* A reduction in the cycle time of changes from months to days
+* A increase in deployment frequency from a few times a month to dozens of times a day
+* Signficant security improvements, such as centralized identity management for employees and customers
 * The implementation of our cloud native PCI-compliant hosting environment
 
 **Technology Solutions Architect - Deere & Company (June 2015 - June 2017):**
